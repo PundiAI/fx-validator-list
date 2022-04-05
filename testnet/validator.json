@@ -6,6 +6,12 @@
     "contact": "contact@functionx.io"
   },
   {
+    "moniker": "choose",
+    "validatorAddress": "fxvaloper1zyumkp8z3le3gw9h3y59y0p33fr0t2gtp6xfes",
+    "website": "a",
+    "contact": "moniker https://functionx.io"
+  },
+  {
     "moniker": "Sydney",
     "validatorAddress": "fxvaloper1ze5yf8kptluvnpxf289slrvgdhl6ns59ulfgfq",
     "website": "functionx.io",
@@ -32,12 +38,36 @@
   {
     "moniker": "ClaudioﾒBarros",
     "validatorAddress": "fxvaloper1r7s7rmag5x88f77dx462m0xyhrvcnztqy8dv9a",
-    "website": "🎄",
-    "contact": "https://www.claudiodb.com/"
+    "website": "🇵🇹",
+    "contact": "https://www.claudioxbarros.com/"
+  },
+  {
+    "moniker": "2wiltj20220328",
+    "validatorAddress": "fxvaloper1xyl4df3hakv4jlpgvr5yxxvdtlfzax7ffksj4q",
+    "website": "https://functionx.io",
+    "contact": ""
+  },
+  {
+    "moniker": "2wiltj20220328",
+    "validatorAddress": "fxvaloper1xj3wclgmetmuc224vm90nys0ys408w706uu0yq",
+    "website": "https://functionx.io",
+    "contact": ""
+  },
+  {
+    "moniker": "wiltj20220327",
+    "validatorAddress": "fxvaloper1x7tyndvrqy4h87nc2nhgye05kslfu469h44yj7",
+    "website": "https://functionx.io",
+    "contact": ""
   },
   {
     "moniker": "Qazu",
     "validatorAddress": "fxvaloper184m5azxgnagm5sra9ze9c4t9l9ckmwe0yex0yu",
+    "website": "",
+    "contact": ""
+  },
+  {
+    "moniker": "PUNDIXTEST",
+    "validatorAddress": "fxvaloper1f8palsy0dwllc9w4mvd8j55knzhe2h35230n26",
     "website": "",
     "contact": ""
   },
@@ -90,6 +120,12 @@
     "contact": "contact@functionx.io"
   },
   {
+    "moniker": "TestValidatorX",
+    "validatorAddress": "fxvaloper1t48dr98zdfmvpf6hv88kc25glnamrz7g7cu5h6",
+    "website": "https://functionx.io",
+    "contact": ""
+  },
+  {
     "moniker": "Cyprus",
     "validatorAddress": "fxvaloper1tc0v3lkxjwth92pu0dprhnzzetqcnn8yk9q0xx",
     "website": "functionx.io",
@@ -132,16 +168,22 @@
     "contact": "https://github.com/EA31337/Support"
   },
   {
-    "moniker": "Nammy🎄",
+    "moniker": "Orbit",
+    "validatorAddress": "fxvaloper1jqta30xdr8mk684p8yeylhcyraktl29c9w26x2",
+    "website": "https://functionx.io",
+    "contact": ""
+  },
+  {
+    "moniker": "Nammy",
     "validatorAddress": "fxvaloper1nammysjltdcuskztjh9z3ue8cz5lg43rs0wt2q",
     "website": "https://nammy-fx.github.io",
     "contact": "nammy-fx@example.com"
   },
   {
-    "moniker": "functionx.io",
+    "moniker": "SoPaulo",
     "validatorAddress": "fxvaloper158gmj69jpfsrvee3a220afjs952p4m6kltc67h",
-    "website": "contact@functionx.io",
-    "contact": ""
+    "website": "functionx.io",
+    "contact": "contact@functionx.io"
   },
   {
     "moniker": "Alif-TestNet",
@@ -204,10 +246,22 @@
     "contact": "contact@functionx.io"
   },
   {
+    "moniker": "Testnet",
+    "validatorAddress": "fxvaloper169zu72l79ks5dgwvqumlxsyyxmw3yfh09cmj03",
+    "website": "moniker",
+    "contact": "https://functionxtestnet.io"
+  },
+  {
     "moniker": "FrenchﾒCore-1",
     "validatorAddress": "fxvaloper16d0jly49xgwm9tyf7lpf0splnfhrnttdejkz9h",
-    "website": "🎄",
-    "contact": "TEST https://forum.functionx.io/u/mdmdmd83"
+    "website": "TEST",
+    "contact": "https://forum.functionx.io/u/mdmdmd83"
+  },
+  {
+    "moniker": "Testnet",
+    "validatorAddress": "fxvaloper16whe8anzjzslgmrtwuqhjfl7np8tseg7mwpvr9",
+    "website": "Ledger",
+    "contact": "moniker https://functionxtesting.io"
   },
   {
     "moniker": "NewYork",
