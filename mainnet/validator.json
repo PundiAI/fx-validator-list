@@ -18,9 +18,15 @@
     "contact": "contact@functionx.io"
   },
   {
-    "moniker": "wolfpack",
+    "moniker": "RETIRING",
     "validatorAddress": "fxvaloper1pcr9h9evn05rpussq9wahmerqjh380mepmshnp",
-    "website": "https://twitter.com/WolfpackFx",
+    "website": "SOON",
+    "contact": "wolfpack https://twitter.com/WolfpackFx"
+  },
+  {
+    "moniker": "🌖🚀Moonbase",
+    "validatorAddress": "fxvaloper1pa4mt67gk67l3ksgwatm56vfjze7y922j2p2q5",
+    "website": "https://brrr.money",
     "contact": ""
   },
   {
@@ -36,10 +42,10 @@
     "contact": "contact@functionx.io"
   },
   {
-    "moniker": "💪",
+    "moniker": "⛄❆",
     "validatorAddress": "fxvaloper1z67rkadwrp2nf4zwxpktpqnw969plelyjj5alt",
     "website": "FrenchﾒCore-1",
-    "contact": "💪 https://twitter.com/FrenchXCore1"
+    "contact": "❆⛄ https://twitter.com/FrenchXCore1"
   },
   {
     "moniker": "Innsbruck",
@@ -66,10 +72,16 @@
     "contact": ""
   },
   {
-    "moniker": "FxWorld",
+    "moniker": "FxWorld🇺🇦",
     "validatorAddress": "fxvaloper19g2087ksund76mv3vt598pd6p563f856wqldkg",
-    "website": "🌍",
-    "contact": "https://twitter.com/Vennila_Isen"
+    "website": "https://twitter.com/Vennila_Isen",
+    "contact": ""
+  },
+  {
+    "moniker": "Dapp.com",
+    "validatorAddress": "fxvaloper19fyfq60lyhv8nlanukfmrg5lp66s8q20vx3jj5",
+    "website": "https://twitter.com/dapp_com",
+    "contact": ""
   },
   {
     "moniker": "Asosiasi",
@@ -170,7 +182,7 @@
   {
     "moniker": "📊EA🤖31337📈",
     "validatorAddress": "fxvaloper1337eaaxxqd7l3jw6hwsrh0rvcjgfzgwqdtfq8x",
-    "website": "https://ea31337.github.io",
+    "website": "https://ea31337.github.io/EA-FX-Validator-site",
     "contact": ""
   },
   {
@@ -273,13 +285,19 @@
     "moniker": "ClaudioﾒBarros",
     "validatorAddress": "fxvaloper1umj9xqdv7q2quvtks8j66mwrj9wcfqp4486qgn",
     "website": "🇵🇹",
-    "contact": "https://www.claudiodb.com/"
+    "contact": "🇺🇦 https://www.claudioxbarros.com/"
   },
   {
     "moniker": "European",
     "validatorAddress": "fxvaloper1as2rwvnayy30pzjy7aw35dcsja6g98nd87r8vp",
     "website": "University",
     "contact": "Cyprus https://euc.ac.cy/en/"
+  },
+  {
+    "moniker": "nexus",
+    "validatorAddress": "fxvaloper1astdkdrxlgylehy0jpqv2e357kl6pq0ccq4u73",
+    "website": "https://nexusbloke.xyz",
+    "contact": ""
   },
   {
     "moniker": "Singapore",
@@ -302,7 +320,7 @@
   {
     "moniker": "Alif",
     "validatorAddress": "fxvaloper1lgzkn292ap2a4t8dvsq0cf5qfkkuplcnztcnvp",
-    "website": "https://twitter.com/alif_fx",
+    "website": "https://functionx.io",
     "contact": ""
   }
 ]
