@@ -17,7 +17,7 @@ update <your_validator's address> logo
 * update fxcore validator.json
 
 ```shell script
-# mainnet
+# mainnet ##testing
 ./run.sh mainnet
 # testnet
 ./run.sh testnet
