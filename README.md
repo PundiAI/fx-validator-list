@@ -3,7 +3,7 @@
 ## Instructions to update your validator's logo
 1. fork this repo
 2. clone the forked repo under your username's repo
-git clone https://github.com/<your-github-username>/fx-validator-list.git
+git clone https://github.com/ your-github-username /fx-validator-list.git
 3. checkout a new branch and name the branch
 update <your_validator's address> logo
 4. add in the logo to your directory, the logo should have the following specifications:
