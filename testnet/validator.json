@@ -48,6 +48,12 @@
     "contact": ""
   },
   {
+    "moniker": "sprouter",
+    "validatorAddress": "fxvaloper1xtpp7xxhc70sxru2mylnwfyeqq08nfwe2kk2ep",
+    "website": "https://engineeringhistoricalmemory.com/",
+    "contact": ""
+  },
+  {
     "moniker": "2wiltj20220328",
     "validatorAddress": "fxvaloper1xj3wclgmetmuc224vm90nys0ys408w706uu0yq",
     "website": "https://functionx.io",
@@ -234,6 +240,12 @@
     "contact": "contact@functionx.io"
   },
   {
+    "moniker": "your-moniker",
+    "validatorAddress": "fxvaloper1ewjfpvy2ey9l2z0vtvwt68n9ule4phlkg6jnel",
+    "website": "",
+    "contact": ""
+  },
+  {
     "moniker": "pundix",
     "validatorAddress": "fxvaloper1ec7eg8yjyta789y2awegk03rwuls6l3hs8w0hx",
     "website": "https://functionx.io",
@@ -292,6 +304,12 @@
     "validatorAddress": "fxvaloper1aa0tf0sthy30atdt784agfgngqck48gkz4uaxa",
     "website": "Sphere",
     "contact": "Project coming soon"
+  },
+  {
+    "moniker": "seeder",
+    "validatorAddress": "fxvaloper178w440py0usw5p6nve4cp6gzvpufm6rhl7h8a6",
+    "website": "theo-resume.web.app/",
+    "contact": ""
   },
   {
     "moniker": "Lagos",
