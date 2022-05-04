@@ -15,7 +15,8 @@ otherwise, simply use HTTPS method for any of your git clients : githubdesktop/s
         ./run.sh mainnet
     ii) # testnet
         ./run.sh testnet
- 8. add in the logo to your directory, the logo should have the following specifications:
+ 8. add in the logo to your directory fx-validator-list/mainnet/assets/<fxvaloper-validator address>/logo.png 
+ , the logo should have the following specifications:
     a. Ensure it is in a .png format
     b. Rename it to ‘logo.png’
     c. File size cannot be bigger than 2MB
