@@ -1,1 +1,356 @@
-[]
+[
+  {
+    "moniker": "Porto",
+    "validatorAddress": "fxvaloper1qpgtrd0q96dlek6h4d3twar2zwv99pewmraq9j",
+    "website": "functionx.io",
+    "contact": "contact@functionx.io"
+  },
+  {
+    "moniker": "choose",
+    "validatorAddress": "fxvaloper1zyumkp8z3le3gw9h3y59y0p33fr0t2gtp6xfes",
+    "website": "a",
+    "contact": "moniker https://functionx.io"
+  },
+  {
+    "moniker": "Sydney",
+    "validatorAddress": "fxvaloper1ze5yf8kptluvnpxf289slrvgdhl6ns59ulfgfq",
+    "website": "functionx.io",
+    "contact": "contact@functionx.io"
+  },
+  {
+    "moniker": "choose",
+    "validatorAddress": "fxvaloper1zuthfdch0lpvcq7pkqf2vtexlw9pyp82cmk3na",
+    "website": "a",
+    "contact": "moniker https://functionx.io"
+  },
+  {
+    "moniker": "cop4200",
+    "validatorAddress": "fxvaloper1rwk5t6m47uvgm2ua8km2gl0eqnl2hczvkf9e4t",
+    "website": "https://functionx.io",
+    "contact": ""
+  },
+  {
+    "moniker": "Amsterdam",
+    "validatorAddress": "fxvaloper1r6y423pc4emczk7k5t8dzen4nw8szc3rmprdcr",
+    "website": "functionx.io",
+    "contact": "contact@functionx.io"
+  },
+  {
+    "moniker": "ClaudioﾒBarros",
+    "validatorAddress": "fxvaloper1r7s7rmag5x88f77dx462m0xyhrvcnztqy8dv9a",
+    "website": "🇵🇹",
+    "contact": "https://www.claudioxbarros.com/"
+  },
+  {
+    "moniker": "2wiltj20220328",
+    "validatorAddress": "fxvaloper1xyl4df3hakv4jlpgvr5yxxvdtlfzax7ffksj4q",
+    "website": "https://functionx.io",
+    "contact": ""
+  },
+  {
+    "moniker": "sprouter",
+    "validatorAddress": "fxvaloper1xtpp7xxhc70sxru2mylnwfyeqq08nfwe2kk2ep",
+    "website": "https://engineeringhistoricalmemory.com/",
+    "contact": ""
+  },
+  {
+    "moniker": "2wiltj20220328",
+    "validatorAddress": "fxvaloper1xj3wclgmetmuc224vm90nys0ys408w706uu0yq",
+    "website": "https://functionx.io",
+    "contact": ""
+  },
+  {
+    "moniker": "wiltj20220327",
+    "validatorAddress": "fxvaloper1x7tyndvrqy4h87nc2nhgye05kslfu469h44yj7",
+    "website": "https://functionx.io",
+    "contact": ""
+  },
+  {
+    "moniker": "choose",
+    "validatorAddress": "fxvaloper1843yllajz3w4hypkxlsk4uvf44ne654a9dd0yh",
+    "website": "a",
+    "contact": "moniker https://functionx.io"
+  },
+  {
+    "moniker": "Qazu",
+    "validatorAddress": "fxvaloper184m5azxgnagm5sra9ze9c4t9l9ckmwe0yex0yu",
+    "website": "",
+    "contact": ""
+  },
+  {
+    "moniker": "PUNDIXTEST",
+    "validatorAddress": "fxvaloper1f8palsy0dwllc9w4mvd8j55knzhe2h35230n26",
+    "website": "",
+    "contact": ""
+  },
+  {
+    "moniker": "Multiverse",
+    "validatorAddress": "fxvaloper1fhxfez3227qq6xk0q85kzu2xn06vrygj9tgyvf",
+    "website": "https://functionx.io",
+    "contact": ""
+  },
+  {
+    "moniker": "Bucharest",
+    "validatorAddress": "fxvaloper12d5yan5cxyvurvuhn4v30w6ffmqu26wxnh9jp9",
+    "website": "functionx.io",
+    "contact": "contact@functionx.io"
+  },
+  {
+    "moniker": "ChiangMai",
+    "validatorAddress": "fxvaloper1244fw3kk2044x9804asyt75d2fksca9c8wrfwz",
+    "website": "functionx.io",
+    "contact": "contact@functionx.io"
+  },
+  {
+    "moniker": "Delhi",
+    "validatorAddress": "fxvaloper12ht9nejt7m9gr4xa3d7dzh23ks985jy54un204",
+    "website": "functionx.io",
+    "contact": "contact@functionx.io"
+  },
+  {
+    "moniker": "Kigali",
+    "validatorAddress": "fxvaloper12e9v57qhvruzkc04ta5cjujclrhf8l70d0xatv",
+    "website": "functionx.io",
+    "contact": "contact@functionx.io"
+  },
+  {
+    "moniker": "Dubai",
+    "validatorAddress": "fxvaloper12e5pqxp3kta5l5v2hlyetydxp9cqwsp8366rzj",
+    "website": "functionx.io",
+    "contact": "contact@functionx.io"
+  },
+  {
+    "moniker": "France-1",
+    "validatorAddress": "fxvaloper1t99vvj5lsy6csanzw4g2malsp7gy54d6nh2rtv",
+    "website": "https://forum.functionx.io/u/mdmdmd83",
+    "contact": ""
+  },
+  {
+    "moniker": "Tokyo",
+    "validatorAddress": "fxvaloper1t2sh0a6u36udu9gxs48uc83dmyk57590p4fv2h",
+    "website": "functionx.io",
+    "contact": "contact@functionx.io"
+  },
+  {
+    "moniker": "TestValidatorX",
+    "validatorAddress": "fxvaloper1t48dr98zdfmvpf6hv88kc25glnamrz7g7cu5h6",
+    "website": "https://functionx.io",
+    "contact": ""
+  },
+  {
+    "moniker": "Cyprus",
+    "validatorAddress": "fxvaloper1tc0v3lkxjwth92pu0dprhnzzetqcnn8yk9q0xx",
+    "website": "functionx.io",
+    "contact": "contact@functionx.io"
+  },
+  {
+    "moniker": "Singapore",
+    "validatorAddress": "fxvaloper1t67ryvnqmnud5g3vpmck00l3umelwkz7huh0s3",
+    "website": "functionx.io",
+    "contact": "contact@functionx.io"
+  },
+  {
+    "moniker": "Jakarta",
+    "validatorAddress": "fxvaloper1v65jk0gvzqdghcclldex08cddc38dau6zty3j5",
+    "website": "functionx.io",
+    "contact": "contact@functionx.io"
+  },
+  {
+    "moniker": "Miami",
+    "validatorAddress": "fxvaloper1dgv9eas48s830ruhcn9pzwtcf54zhykcyx7gem",
+    "website": "functionx.io",
+    "contact": "contact@functionx.io"
+  },
+  {
+    "moniker": "choose",
+    "validatorAddress": "fxvaloper1wa37hw5hnd7670ak4896a9s65ldcjks79rpafz",
+    "website": "a",
+    "contact": "moniker https://functionx.io"
+  },
+  {
+    "moniker": "Blindgotchi",
+    "validatorAddress": "fxvaloper1sfw4q2uj8ag79usl562u5wz2rwgzavs0fw4tr2",
+    "website": "https://functionx.io",
+    "contact": ""
+  },
+  {
+    "moniker": "Superbit123",
+    "validatorAddress": "fxvaloper1s4xdr0z0hfz5390jthpjyfw8st252vyskjwymy",
+    "website": "https://functionx.io",
+    "contact": ""
+  },
+  {
+    "moniker": "📊EA🤖31337📈",
+    "validatorAddress": "fxvaloper1337eajy0y86aq9m4sragu36xfthk85nmqvw378",
+    "website": "https://ea31337.github.io",
+    "contact": "https://github.com/EA31337/Support"
+  },
+  {
+    "moniker": "Orbit",
+    "validatorAddress": "fxvaloper1jqta30xdr8mk684p8yeylhcyraktl29c9w26x2",
+    "website": "https://functionx.io",
+    "contact": ""
+  },
+  {
+    "moniker": "choose",
+    "validatorAddress": "fxvaloper1jcvmgyaly85r8p0rpft36z33xxeh974ant2f5v",
+    "website": "a",
+    "contact": "moniker https://functionx.io"
+  },
+  {
+    "moniker": "Nammy",
+    "validatorAddress": "fxvaloper1nammysjltdcuskztjh9z3ue8cz5lg43rs0wt2q",
+    "website": "https://nammy-fx.github.io",
+    "contact": "nammy-fx@example.com"
+  },
+  {
+    "moniker": "SoPaulo",
+    "validatorAddress": "fxvaloper158gmj69jpfsrvee3a220afjs952p4m6kltc67h",
+    "website": "functionx.io",
+    "contact": "contact@functionx.io"
+  },
+  {
+    "moniker": "Alif-TestNet",
+    "validatorAddress": "fxvaloper14rcuc3zr43zgptxy49879lz3tf9k8fpytdr2ms",
+    "website": "https://twitter.com/alif_fx",
+    "contact": ""
+  },
+  {
+    "moniker": "London",
+    "validatorAddress": "fxvaloper14tsz440047j6zrz2vye6hxsu96rmqscn0jwls8",
+    "website": "functionx.io",
+    "contact": "contact@functionx.io"
+  },
+  {
+    "moniker": "chloe",
+    "validatorAddress": "fxvaloper14ndun0nt00syaymd43jz9l2agx2f8w4mtgknpk",
+    "website": "鱼",
+    "contact": "https://functionx.io"
+  },
+  {
+    "moniker": "Shenzhen",
+    "validatorAddress": "fxvaloper1kruzkcrxvkx33y8hsuzkqh4u4ddzv2avz9mv60",
+    "website": "functionx.io",
+    "contact": "contact@functionx.io"
+  },
+  {
+    "moniker": "SanSalvador",
+    "validatorAddress": "fxvaloper1kv92xckjg88mmaua36p9te382uv099eu2q77kg",
+    "website": "functionx.io",
+    "contact": "contact@functionx.io"
+  },
+  {
+    "moniker": "Istanbul",
+    "validatorAddress": "fxvaloper1hq74pg8trs7rh0kk3cpy0xg29j4rhd0xz0ux3e",
+    "website": "functionx.io",
+    "contact": "contact@functionx.io"
+  },
+  {
+    "moniker": "Madrid",
+    "validatorAddress": "fxvaloper1etzrlsszsm0jaj4dp5l25vk3p4w0x4ntl64hlw",
+    "website": "functionx.io",
+    "contact": "contact@functionx.io"
+  },
+  {
+    "moniker": "Phobos",
+    "validatorAddress": "fxvaloper1eta3x6l3u6pwg4lsvs4mx4ljnwatphpq43nq3j",
+    "website": "https://functionx.io",
+    "contact": ""
+  },
+  {
+    "moniker": "your-moniker",
+    "validatorAddress": "fxvaloper1ewjfpvy2ey9l2z0vtvwt68n9ule4phlkg6jnel",
+    "website": "",
+    "contact": ""
+  },
+  {
+    "moniker": "pundix",
+    "validatorAddress": "fxvaloper1ec7eg8yjyta789y2awegk03rwuls6l3hs8w0hx",
+    "website": "https://functionx.io",
+    "contact": ""
+  },
+  {
+    "moniker": "Taipei",
+    "validatorAddress": "fxvaloper1e7c209uwjgruc7tcez5rmzm3tdca896zf5yqa4",
+    "website": "functionx.io",
+    "contact": "contact@functionx.io"
+  },
+  {
+    "moniker": "Montreal",
+    "validatorAddress": "fxvaloper1elg5zls8cptp928yewkjmuuhcv70hrmyafkdmn",
+    "website": "functionx.io",
+    "contact": "contact@functionx.io"
+  },
+  {
+    "moniker": "Testnet",
+    "validatorAddress": "fxvaloper169zu72l79ks5dgwvqumlxsyyxmw3yfh09cmj03",
+    "website": "moniker",
+    "contact": "https://functionxtestnet.io"
+  },
+  {
+    "moniker": "FrenchﾒCore-1",
+    "validatorAddress": "fxvaloper16d0jly49xgwm9tyf7lpf0splnfhrnttdejkz9h",
+    "website": "TEST",
+    "contact": "https://forum.functionx.io/u/mdmdmd83"
+  },
+  {
+    "moniker": "Testnet",
+    "validatorAddress": "fxvaloper16whe8anzjzslgmrtwuqhjfl7np8tseg7mwpvr9",
+    "website": "Ledger",
+    "contact": "moniker https://functionxtesting.io"
+  },
+  {
+    "moniker": "NewYork",
+    "validatorAddress": "fxvaloper164hcdtc5cyxyuvn36647pa3nzf37apzge4uy47",
+    "website": "functionx.io",
+    "contact": "contact@functionx.io"
+  },
+  {
+    "moniker": "Innsbruck",
+    "validatorAddress": "fxvaloper1mt2nv97usvrgwcms62w84cnxg5lxhzssk9559w",
+    "website": "functionx.io",
+    "contact": "contact@functionx.io"
+  },
+  {
+    "moniker": "wolfpack64",
+    "validatorAddress": "fxvaloper1ujndqy59r4wpd3g028w4dzef4d6u4lfmuk5vc4",
+    "website": "https://functionx.io",
+    "contact": ""
+  },
+  {
+    "moniker": "Dyson",
+    "validatorAddress": "fxvaloper1aa0tf0sthy30atdt784agfgngqck48gkz4uaxa",
+    "website": "Sphere",
+    "contact": "Project coming soon"
+  },
+  {
+    "moniker": "seeder",
+    "validatorAddress": "fxvaloper178w440py0usw5p6nve4cp6gzvpufm6rhl7h8a6",
+    "website": "theo-resume.web.app/",
+    "contact": ""
+  },
+  {
+    "moniker": "“keith”",
+    "validatorAddress": "fxvaloper17txgnmvqg4lp46vk0d49ns4smmz7sv084advtx",
+    "website": "https://functionx.io",
+    "contact": ""
+  },
+  {
+    "moniker": "Lagos",
+    "validatorAddress": "fxvaloper17vxmqyn3gplnm55nmsle4vmx7fcfhkukxc4val",
+    "website": "functionx.io",
+    "contact": "contact@functionx.io"
+  },
+  {
+    "moniker": "Seoul",
+    "validatorAddress": "fxvaloper1lf3q4vnj94wsc2dtllytrkrsjgwx99yhy50x2x",
+    "website": "functionx.io",
+    "contact": "contact@functionx.io"
+  },
+  {
+    "moniker": "westblue",
+    "validatorAddress": "fxvaloper1luy53l9d8jqx7rd095m609wf95qrj4hergtgxc",
+    "website": "https://functionx.io",
+    "contact": ""
+  }
+]
