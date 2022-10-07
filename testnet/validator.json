@@ -6,6 +6,18 @@
     "contact": "contact@functionx.io"
   },
   {
+    "moniker": "john",
+    "validatorAddress": "fxvaloper1pnlffu2jmhm3x0xfprql4c70qte3jfa87wapl8",
+    "website": "nguyen",
+    "contact": "https://functionx.io"
+  },
+  {
+    "moniker": "DreamBox",
+    "validatorAddress": "fxvaloper1p597cy7gv9jsdt0pgkfptzhwg2qgk5334ar2j5",
+    "website": "https://dreambox.lat",
+    "contact": ""
+  },
+  {
     "moniker": "choose",
     "validatorAddress": "fxvaloper1zyumkp8z3le3gw9h3y59y0p33fr0t2gtp6xfes",
     "website": "a",
@@ -24,6 +36,12 @@
     "contact": "moniker https://functionx.io"
   },
   {
+    "moniker": "„Unknown”",
+    "validatorAddress": "fxvaloper1r9tdwegvds8gegjaxhv8mjywn4xuv29zlla4t0",
+    "website": "https://functionx.io",
+    "contact": ""
+  },
+  {
     "moniker": "cop4200",
     "validatorAddress": "fxvaloper1rwk5t6m47uvgm2ua8km2gl0eqnl2hczvkf9e4t",
     "website": "https://functionx.io",
@@ -39,7 +57,25 @@
     "moniker": "ClaudioﾒBarros",
     "validatorAddress": "fxvaloper1r7s7rmag5x88f77dx462m0xyhrvcnztqy8dv9a",
     "website": "🇵🇹",
-    "contact": "https://www.claudioxbarros.com/"
+    "contact": "🇺🇦 https://www.claudioxbarros.com/"
+  },
+  {
+    "moniker": "Aman",
+    "validatorAddress": "fxvaloper19rnddakc7z3r8ysacecd20mfutv8ge4sgfu6qh",
+    "website": "Yadav",
+    "contact": "test Validator https://functionx.io"
+  },
+  {
+    "moniker": "Alif-TestNet2",
+    "validatorAddress": "fxvaloper19frssuyuq5fucnyk87g9u6zw5qtxqjg3qmasdu",
+    "website": "https://twitter.com/alif_fx",
+    "contact": ""
+  },
+  {
+    "moniker": "choose",
+    "validatorAddress": "fxvaloper19mlsjsh948d6xzyllgt990hshv455ravpu04a7",
+    "website": "a",
+    "contact": "moniker https://functionx.io"
   },
   {
     "moniker": "2wiltj20220328",
@@ -60,9 +96,21 @@
     "contact": ""
   },
   {
+    "moniker": "Alif-TestNode2",
+    "validatorAddress": "fxvaloper1xnpkpx5t9zhs8nygz3kn48cquv65nyldx9llta",
+    "website": "https://twitter.com/alif_fx",
+    "contact": ""
+  },
+  {
     "moniker": "wiltj20220327",
     "validatorAddress": "fxvaloper1x7tyndvrqy4h87nc2nhgye05kslfu469h44yj7",
     "website": "https://functionx.io",
+    "contact": ""
+  },
+  {
+    "moniker": "WowPanda",
+    "validatorAddress": "fxvaloper18sy3euq5l7r0fq824q3f8mjg9nucnkh7mdtwrh",
+    "website": "",
     "contact": ""
   },
   {
@@ -150,6 +198,12 @@
     "contact": "contact@functionx.io"
   },
   {
+    "moniker": "Malaysia",
+    "validatorAddress": "fxvaloper1v2wyejv9v9uc2th9z7exlep04p559lvyc7788w",
+    "website": "https://functionx.io",
+    "contact": ""
+  },
+  {
     "moniker": "Jakarta",
     "validatorAddress": "fxvaloper1v65jk0gvzqdghcclldex08cddc38dau6zty3j5",
     "website": "functionx.io",
@@ -166,6 +220,12 @@
     "validatorAddress": "fxvaloper1wa37hw5hnd7670ak4896a9s65ldcjks79rpafz",
     "website": "a",
     "contact": "moniker https://functionx.io"
+  },
+  {
+    "moniker": "Venus",
+    "validatorAddress": "fxvaloper1sy0cyqdt6qwh3e92nsnyy6xurpa65vsav0cmec",
+    "website": "venus://venus",
+    "contact": ""
   },
   {
     "moniker": "Blindgotchi",
@@ -210,6 +270,12 @@
     "contact": "contact@functionx.io"
   },
   {
+    "moniker": "DAOverse",
+    "validatorAddress": "fxvaloper15mugjj3g0720t6wgrpeh8793c7y4skatas23gf",
+    "website": "https://Daoverse.games",
+    "contact": ""
+  },
+  {
     "moniker": "Alif-TestNet",
     "validatorAddress": "fxvaloper14rcuc3zr43zgptxy49879lz3tf9k8fpytdr2ms",
     "website": "https://twitter.com/alif_fx",
@@ -220,6 +286,12 @@
     "validatorAddress": "fxvaloper14tsz440047j6zrz2vye6hxsu96rmqscn0jwls8",
     "website": "functionx.io",
     "contact": "contact@functionx.io"
+  },
+  {
+    "moniker": "Sloth",
+    "validatorAddress": "fxvaloper14w7qh4y6ctgx72tgxf2lauk2eyy3mw7vwxjxcz",
+    "website": "https://sloth.sloth",
+    "contact": ""
   },
   {
     "moniker": "chloe",
@@ -254,6 +326,12 @@
   {
     "moniker": "Phobos",
     "validatorAddress": "fxvaloper1eta3x6l3u6pwg4lsvs4mx4ljnwatphpq43nq3j",
+    "website": "https://functionx.io",
+    "contact": ""
+  },
+  {
+    "moniker": "Multisig_Test",
+    "validatorAddress": "fxvaloper1ewytzqzdxkw4q34nkyamcvg7epv0anz3epq25w",
     "website": "https://functionx.io",
     "contact": ""
   },
@@ -312,9 +390,21 @@
     "contact": "contact@functionx.io"
   },
   {
+    "moniker": "choose",
+    "validatorAddress": "fxvaloper1u0m2ydggk3k65u5md470kxp0ah3sxxkpuu0hyv",
+    "website": "a",
+    "contact": "moniker https://functionx.io"
+  },
+  {
     "moniker": "wolfpack64",
     "validatorAddress": "fxvaloper1ujndqy59r4wpd3g028w4dzef4d6u4lfmuk5vc4",
     "website": "https://functionx.io",
+    "contact": ""
+  },
+  {
+    "moniker": "your-moniker",
+    "validatorAddress": "fxvaloper1a8prwglrf4ka0k9kcadu725pmttleujn8dgu5w",
+    "website": "https://heyethereum.github.io/Function-X/",
     "contact": ""
   },
   {
@@ -346,6 +436,12 @@
     "validatorAddress": "fxvaloper1lf3q4vnj94wsc2dtllytrkrsjgwx99yhy50x2x",
     "website": "functionx.io",
     "contact": "contact@functionx.io"
+  },
+  {
+    "moniker": "piggyinu",
+    "validatorAddress": "fxvaloper1ld8qr9n0pyllxdek87p3sra6yfqxs4r0czuldf",
+    "website": "https://functionx.io",
+    "contact": ""
   },
   {
     "moniker": "westblue",
