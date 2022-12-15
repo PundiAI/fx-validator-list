@@ -48,10 +48,10 @@
     "contact": "contact@functionx.io"
   },
   {
-    "moniker": "☀ⓧ",
+    "moniker": "⛄❆",
     "validatorAddress": "fxvaloper1z67rkadwrp2nf4zwxpktpqnw969plelyjj5alt",
     "website": "FrenchﾒCore-1",
-    "contact": "ⓧ☀ https://twitter.com/FrenchXCore1"
+    "contact": "❆⛄ https://twitter.com/FrenchXCore1"
   },
   {
     "moniker": "🧙‍♂️",
@@ -160,6 +160,12 @@
     "validatorAddress": "fxvaloper126pplyfsrshzvjutslee8369uhc3hvmxml8adf",
     "website": "FX",
     "contact": "Battalion https://twitter.com/aravancriptos"
+  },
+  {
+    "moniker": "ByteX",
+    "validatorAddress": "fxvaloper1265yve20ltnn8gl9cdphgxwyem423mwy2g6060",
+    "website": "https://twitter.com/Byte_Produce",
+    "contact": ""
   },
   {
     "moniker": "AquillaX",
@@ -312,10 +318,10 @@
     "contact": "contact@functionx.io"
   },
   {
-    "moniker": "ClaudioﾒBarros",
+    "moniker": "🎄",
     "validatorAddress": "fxvaloper1umj9xqdv7q2quvtks8j66mwrj9wcfqp4486qgn",
-    "website": "🇵🇹",
-    "contact": "🇺🇦 https://www.claudioxbarros.com/"
+    "website": "ClaudioﾒBarros",
+    "contact": "🇵🇹 🇺🇦 🎄 https://www.claudioxbarros.com/"
   },
   {
     "moniker": "European",
@@ -339,6 +345,12 @@
     "moniker": "🦊Fox🦊",
     "validatorAddress": "fxvaloper1780uflqpght7etzq8auv0ram6rwy3wd69vdxc9",
     "website": "https://officialfoxcoin.com",
+    "contact": ""
+  },
+  {
+    "moniker": "Aghanism",
+    "validatorAddress": "fxvaloper175yk2n6dq66kl3m8rsqn5yfqf4jkegnlvcce0a",
+    "website": "",
     "contact": ""
   },
   {
